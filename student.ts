@@ -40,4 +40,8 @@ console.log(firstStudent,javaStudent);
 findAndUpdateja2(javaStudent, 1, "jens")
 console.log(firstStudent, javaStudent)
 
+//==========================================================================
 
+const meinArray: string[]=["A", "B", "C", "D"];
+const [x1, x2, x3, x4]=meinArray;
+console.log(x1  )

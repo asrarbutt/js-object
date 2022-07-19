@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="200465de-dc0c-4ddb-ab61-6772917bff84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-object.iml" afterDir="false" />
+    <list default="true" id="200465de-dc0c-4ddb-ab61-6772917bff84" name="Changes" comment="finish task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.js" beforeDir="false" afterPath="$PROJECT_DIR$/student.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.ts" beforeDir="false" afterPath="$PROJECT_DIR$/student.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -46,13 +45,17 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.student.js">
+    <configuration name="RickAndMorty.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/RickAndMorty.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="student.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/student.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.student.js" />
+        <item itemvalue="Node.js.RickAndMorty.js" />
       </list>
     </recent_temporary>
   </component>
@@ -67,8 +70,17 @@
       <workItem from="1658232307565" duration="336000" />
       <workItem from="1658232667117" duration="822000" />
       <workItem from="1658233498302" duration="5089000" />
-      <workItem from="1658238600048" duration="2211000" />
+      <workItem from="1658238600048" duration="4275000" />
+      <workItem from="1658253120688" duration="3514000" />
     </task>
+    <task id="LOCAL-00001" summary="finish task">
+      <created>1658241665480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658241665480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +88,7 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/student.js" />
+        <option value="$PROJECT_DIR$/RickAndMorty.js" />
       </list>
     </option>
   </component>
@@ -89,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish task" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish task" />
   </component>
 </project>
